@@ -73,8 +73,6 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
-    androidTestApi(libs.koin.test)
-    androidTestApi(libs.koin.test.junit4)
 
     implementation(libs.kotlinx.serialization.json)
     implementation(libs.gson)

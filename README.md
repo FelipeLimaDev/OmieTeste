@@ -24,6 +24,11 @@ Este projeto utiliza as seguintes tecnologias e práticas:
 - **Clean Architecture**: Estrutura do código organizada em camadas, promovendo a separação de preocupações e facilitando a manutenção.
 - **Room**: Biblioteca de persistência para gerenciamento local de dados, utilizado para armazenar os pedidos e itens no banco de dados.
 
-Aqui está a captura de tela do meu projeto:
+Para instalar uma versão [CLIQUE AQUI](https://drive.google.com/file/d/1C_xZnRbjyHJLs7D68UPdyUoDfggRJmVJ/view?usp=sharing)
+
+Aqui estão algumas capturas de tela do aplicativo:
 
 ![Capturas de tela do projeto](prints/print.png)
+
+Obrigado por conferir este projeto! 🚀
+
